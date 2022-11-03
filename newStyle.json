@@ -1,5 +1,5 @@
 {
-  "HeadlineXLarge": {
+  "HeadlineXLarge1": {
     "font_size": 40,
     "line_height": 48,
     "line_spacing": 1,
@@ -10,7 +10,7 @@
     "first_baseline_to_top_height": 38,
     "last_baseline_to_bottom_height": 10
   },
-  "HeadlineLarge": {
+  "HeadlineLarge2": {
     "font_size": 30,
     "line_height": 36,
     "line_spacing": 0,
@@ -21,7 +21,7 @@
     "first_baseline_to_top_height": 28,
     "last_baseline_to_bottom_height": 8
   },
-  "HeadlineMedium": {
+  "HeadlineMedium3": {
     "font_size": 26,
     "line_height": 32,
     "line_spacing": 1,
@@ -32,7 +32,7 @@
     "first_baseline_to_top_height": 25,
     "last_baseline_to_bottom_height": 7
   },
-  "HeadlineSmall": {
+  "HeadlineSmall4": {
     "font_size": 20,
     "line_height": 28,
     "line_spacing": 4,
@@ -43,7 +43,7 @@
     "first_baseline_to_top_height": 21,
     "last_baseline_to_bottom_height": 7
   },
-  "HeadlineXSmall": {
+  "HeadlineXSmall5": {
     "font_size": 16,
     "line_height": 24,
     "line_spacing": 5,
@@ -54,7 +54,7 @@
     "first_baseline_to_top_height": 17,
     "last_baseline_to_bottom_height": 7
   },
-  "HeadlineLarge": {
+  "HeadlineLarge6": {
     "font_size": 30,
     "line_height": 36,
     "line_spacing": 0,
@@ -65,7 +65,7 @@
     "first_baseline_to_top_height": 28,
     "last_baseline_to_bottom_height": 8
   },
-  "HeadlineMedium": {
+  "HeadlineMedium7": {
     "font_size": 26,
     "line_height": 32,
     "line_spacing": 1,
@@ -76,7 +76,7 @@
     "first_baseline_to_top_height": 25,
     "last_baseline_to_bottom_height": 7
   },
-  "HeadlineSmall": {
+  "HeadlineSmall8": {
     "font_size": 20,
     "line_height": 28,
     "line_spacing": 4,
@@ -87,7 +87,7 @@
     "first_baseline_to_top_height": 21,
     "last_baseline_to_bottom_height": 7
   },
-  "ParagraphPrimaryMedium": {
+  "ParagraphPrimaryMedium9": {
     "font_size": 16,
     "line_height": 24,
     "line_spacing": 5,
@@ -98,7 +98,7 @@
     "first_baseline_to_top_height": 17,
     "last_baseline_to_bottom_height": 7
   },
-  "ActionPrimaryMedium": {
+  "ActionPrimaryMedium10": {
     "font_size": 16,
     "line_height": 24,
     "line_spacing": 5,
@@ -109,7 +109,7 @@
     "first_baseline_to_top_height": 17,
     "last_baseline_to_bottom_height": 7
   },
-  "HeadlineXSmall": {
+  "HeadlineXSmall11": {
     "font_size": 16,
     "line_height": 24,
     "line_spacing": 5,
@@ -120,7 +120,7 @@
     "first_baseline_to_top_height": 17,
     "last_baseline_to_bottom_height": 7
   },
-  "ParagraphComponent": {
+  "ParagraphComponent12": {
     "font_size": 16,
     "line_height": 20,
     "line_spacing": 1,
@@ -131,7 +131,7 @@
     "first_baseline_to_top_height": 15,
     "last_baseline_to_bottom_height": 5
   },
-  "ActionPrimaryMedium": {
+  "ActionPrimaryMedium13": {
     "font_size": 16,
     "line_height": 24,
     "line_spacing": 5,
@@ -142,7 +142,7 @@
     "first_baseline_to_top_height": 17,
     "last_baseline_to_bottom_height": 7
   },
-  "AccentPrimaryMedium": {
+  "AccentPrimaryMedium14": {
     "font_size": 16,
     "line_height": 24,
     "line_spacing": 5,
@@ -153,7 +153,7 @@
     "first_baseline_to_top_height": 17,
     "last_baseline_to_bottom_height": 7
   },
-  "ParagraphPrimarySmall": {
+  "ParagraphPrimarySmall15": {
     "font_size": 14,
     "line_height": 20,
     "line_spacing": 3,
@@ -164,7 +164,7 @@
     "first_baseline_to_top_height": 15,
     "last_baseline_to_bottom_height": 5
   },
-  "ActionPrimarySmall": {
+  "ActionPrimarySmall16": {
     "font_size": 14,
     "line_height": 20,
     "line_spacing": 3,
@@ -175,7 +175,7 @@
     "first_baseline_to_top_height": 15,
     "last_baseline_to_bottom_height": 5
   },
-  "AccentPrimarySmall": {
+  "AccentPrimarySmall17": {
     "font_size": 14,
     "line_height": 20,
     "line_spacing": 3,
@@ -186,7 +186,7 @@
     "first_baseline_to_top_height": 15,
     "last_baseline_to_bottom_height": 5
   },
-  "ParagraphSecondaryMedium": {
+  "ParagraphSecondaryMedium18": {
     "font_size": 12,
     "line_height": 16,
     "line_spacing": 1,
@@ -197,7 +197,7 @@
     "first_baseline_to_top_height": 12,
     "last_baseline_to_bottom_height": 4
   },
-  "ParagraphCaps": {
+  "ParagraphCaps19": {
     "font_size": 12,
     "line_height": 16,
     "line_spacing": 1,
